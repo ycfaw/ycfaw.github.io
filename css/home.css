@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700,900');
+
+
+body {
+	margin: 0;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0; padding: 0;
+}
+
+.contain {
+	width: 95%;
+	margin: 0 auto;
+}
+
+/* typography */
+
+.main {
+	font-size: 3rem;
+	color: white;
+}
+
+.main span {
+	font-weight: 400;
+	display: block;
+	padding-top: .1em;
+	font-size: 2rem;
+}
+
+
+
+
+/*header */
+
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+}
+
+
+header {
+	background: #0E5F78;
+	height: 3em;
+}
+
+.logo {
+	float: left;
+	height: 100%;
+	margin: .2em;
+}
+
+nav {
+	float: right;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;
+	margin: 1em;
+}
+
+nav a {
+	font-weight: 700;
+	text-decoration: none;
+	font-size: .9rem;
+	padding: .2em;
+	color: white;
+}
+
+nav a:hover {
+	color: #D3D3D3;
+}
+
+
+/* Welcome Section */
+.welcome {
+	background: url("https://s20.postimg.org/yt5gbcw8d/pexels-photo-652347_1.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100% 100%;
+	width: 100%;
+	padding: 6.3em 0;
+}
+
+
+h1 {
+	text-align: center;
+	color: white;
+	text-shadow: .2em .2em .2em #000;
+}
+
+.buttons a {
+	text-decoration: none;
+	padding: .3em;
+	color: white;
+	font-weight: 400;
+	font-size: 1.5em;
+	background: #0E5F78;
+}
+
+.buttons {
+	padding-top: 1em;
+}
+
+.welcome p {
+	font-weight: 400;
+	font-size: 1.5em;
+	padding-top: .8em;
+	color: white;
+	text-shadow: .1em .1em .1em #000;
+}
+
+/* Openings */
+
+.openings {
+	background-color: #015249;
+	height: 500px;
+	width: 100%;
+}
+
+.openings h1 {
+	padding-top: 4em;
+	padding-left: 23em;
+}
+
+.openings p {
+	color: white;
+	font-size: 1rem;
+	font-weight: 400;
+	text-align: justify;
+	padding-top: .6em;
+	padding-left: 62em;
+	padding-right: 5em;
+	padding-bottom: .9em 0;
+}
+
+.openings a {
+	float: right;
+	margin-right: 12em;
+}
+
+.open {
+	padding: .3em;
+	background-color: #0E5F78;
+	text-align: right;
+	text-decoration: none;
+	color: white;
+}
+
+.openings img {
+	max-height: 100%
+}
+
+
+/* Applications */
+
+.applications {
+	background-color: #015221;
+	height: 500px;
+	width: 100%;
+}
+
+.applications h1 {
+	padding-top: 4em;
+	padding-right: 28.5em;
+}
+
+.applications p {
+	color: white;
+	font-size: 1rem;
+	font-weight: 400;
+	text-align: justify;
+	padding-top: .6em;
+	padding-left: 5em;
+	padding-right: 62em;
+	padding-bottom: .9em;
+}
+
+.applications li {
+	float: left;
+	margin-left: 4.7em;
+	display: inline-block;
+}
+
+.applications a {
+	padding: .3em;
+	background-color: #0E5F78;
+	text-align: left;
+	text-decoration: none;
+	color: white;
+}
+
+.applications img {
+	height: 100%;
+}
+
+
+
+/* Interviews */
+
+.interviews {
+	background-color: #015249;
+	height: 500px;
+	width: 100%;
+}
+
+.interviews h1 {
+	padding-top: 4em;
+	padding-left: 28em;
+}
+
+.interviews p {
+	color: white;
+	font-size: 1rem;
+	font-weight: 400;
+	text-align: justify;
+	padding-top: .6em;
+	padding-left: 62em;
+	padding-right: 5em;
+	padding-bottom: .9em;
+}
+
+.interviews a {
+	float: right;
+	margin-right: 12em;
+}
+
+.inter {
+	padding: .3em;
+	background-color: #0E5F78;
+	text-align: right;
+	text-decoration: none;
+	color: white;
+}
+
+.interviews img {
+	max-height: 100%
+}
+

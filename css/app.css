@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700,900');
+
+
+body {
+margin: 0;
+font-family: 'Raleway', sans-serif;
+  color: white;
+  background-image: url("https://s20.postimg.org/h4rhp0ect/pexels-photo-590016.jpg");
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0; padding: 0;
+}
+
+
+
+/*header */
+
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+}
+
+
+header {
+	background: #0E5F78;
+	height: 3em;
+}
+
+.logo {
+	float: left;
+	height: 100vh;
+}
+
+nav {
+	float: right;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;
+	margin: 1em;
+}
+
+nav a {
+	font-weight: 700;
+	text-decoration: none;
+	font-size: .9rem;
+	padding: .4em;
+	color: white;
+}
+
+nav a:hover {
+	color: #D3D3D3;
+}
+
+/* Content */
+
+.contain {
+  background-color: #015221;
+  margin-left: 10em;
+  margin-right: 10em;
+}
+
+h1 {
+  font-size: 2.5rem;	
+  padding-top: .3em;	
+  text-align: center;
+}
+
+#intro p {
+  
+  padding-top: .8em;
+  font-size: 1.2rem;
+}
+
+h2 {
+  font-size: 2rem;
+  padding-top: 1em;
+  text-align: center;
+  padding-bottom: .2em;
+}
+
+.steps h4 {
+	text-align: center;
+}
+
+.steps p {
+  text-align: justify;
+	padding-left: 22em;
+	padding-right: 22em;
+	padding-bottom: .2em;
+}
+
+.contain h4 {
+	padding-top: .5em;
+	text-align: center;
+	padding-left: 10em;
+	padding-right: 10em;
+}
+
+.steps a {
+	color: white;
+	background-color:  #0E5F78;
+	font-size: 1.5em;
+	padding-left: .8em;
+	padding-right: .8em;
+	text-align: center;
+	text-decoration: none;
+}
+
+.steps ul {
+	list-style: none;
+}
+
+.button {
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-left: 22.5em;
+}
+
+.steps li {
+	display: inline-block;
+	text-align: center;
+	text-decoration: none;
+}
