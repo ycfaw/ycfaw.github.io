@@ -103,37 +103,6 @@ p {
 	color: white;
 }
 
-.aa {
-	padding-left: 10em;
-}
-
-.b {
-	padding-right: 0em;
-	padding-top: 0em;
-}
-
-.c {
-	padding-right: 0em;
-}
-
-.d {
-	padding-right: 0em;
-	padding-top: 3em;
-}
-
-.e {
-	padding-right: 0em;
-	padding-top: 1em;
-}
-
-.f {
-	padding-right: 00em;
-}
-
-.g {
-	padding-right: 15em;
-	padding-top: 1em;
-}
 
 
 @media screen and (max-width: 480px;) {
