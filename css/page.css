@@ -96,7 +96,7 @@ h4 {
 
 
 p {
-	text-align: justify;
+	text-align: left;
 	padding-right: 40em;
 	padding-left: 15em;
 	padding-bottom: 2em;
@@ -105,13 +105,4 @@ p {
 
 
 
-@media screen and (max-width: 480px;) {
-	img {
-		display: none;
-	}
-}
 
-@media screen and (max-width 480px;) {
-	* {
-		text-align: center;
-	}
