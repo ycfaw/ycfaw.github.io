@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700,900');
 
 
 body {
@@ -93,7 +93,9 @@ nav a:hover {
 }
 
 .welcome img {
+	padding-top: 2em;
 	padding-left: 17em;
+	padding-bottom: 2em;
 }
 
 h1 {
