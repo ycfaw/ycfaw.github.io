@@ -96,9 +96,8 @@ h2 {
 }
 
 .steps p {
-	text-align: justify;
-	padding-left: 22em;
-	padding-right: 22em;
+	text-align: left;
+	padding-left: 11em;
 	padding-bottom: .2em;
 }
 
