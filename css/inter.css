@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700,900');
+r@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700,900');
 
 
 body {
@@ -90,7 +90,7 @@ h2 {
   font-size: 2rem;
   padding-top: 1em;
   padding-left: 10em;
-  text-align: left;
+  text-align: center;
   padding-bottom: .2em;
   margin: 0 auto;
 }
