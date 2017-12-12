@@ -109,28 +109,3 @@ h2 {
 	padding-right: 10em;
 }
 
-.steps a {
-	color: white;
-	background-color:  #0E5F78;
-	font-size: 1.5em;
-	padding-left: .8em;
-	padding-right: .8em;
-	text-align: center;
-	text-decoration: none;
-}
-
-.steps ul {
-	list-style: none;
-}
-
-.button {
-	padding-top: 1em;
-	padding-bottom: 1em;
-	margin-left: 22.5em;
-}
-
-.steps li {
-	display: inline-block;
-	text-align: center;
-	text-decoration: none;
-}
