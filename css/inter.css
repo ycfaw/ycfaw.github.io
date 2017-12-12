@@ -2,7 +2,7 @@
 
 
 body {
-margin: 0;
+margin: 0 auto;
 font-family: 'Raleway', sans-serif;
   color: white;
   background-image: url("https://s20.postimg.org/hzq2lxrbx/Mindful_Leadership.png");
@@ -31,6 +31,7 @@ font-family: 'Raleway', sans-serif;
 header {
 	background: #0E5F78;
 	height: 3em;
+	margin: 0 auto;
 }
 
 .logo {
@@ -42,7 +43,7 @@ nav {
 }
 
 nav ul {
-	margin: 0;
+	margin: 0 auto;
 	padding: 0;
 	list-style: none;
 }
@@ -76,6 +77,7 @@ h1 {
   font-size: 2.5rem;	
   padding-top: .3em;	
   text-align: center;
+  margin: 0 auto;
 }
 
 #intro p {
@@ -90,6 +92,7 @@ h2 {
   padding-left: 10em;
   text-align: left;
   padding-bottom: .2em;
+  margin: 0 auto;
 }
 
 .steps h4 {
