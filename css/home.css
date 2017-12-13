@@ -238,7 +238,7 @@ h1 {
 .interviews a {
 	float: right;
 	margin-right: 12em;
-	padding-bottom: 10em;
+	margin-bottom: 5em;
 }
 
 .inter {
