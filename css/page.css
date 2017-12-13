@@ -74,7 +74,8 @@ nav a:hover {
 }
 
 img {
-	align: middle;
+	margin-left: 20em;
+	margin-right: 25em;
 	display: block;
 	
 }
