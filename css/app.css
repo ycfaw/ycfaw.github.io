@@ -111,5 +111,6 @@ h2 {
 }
 
 img {
-  align: center;
+  padding-left: 15em;
+	padding-right: 15em;
 }
