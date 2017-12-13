@@ -139,6 +139,7 @@ h2 {
 }
 
 img {
-	float: left;
-	padding-left: 1em;
+	float: right;
+	padding-right: 1em;
+	padding-left: .2em;
 }
