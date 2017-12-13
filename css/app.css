@@ -112,5 +112,6 @@ h2 {
 
 img {
   padding-left: 15em;
-	padding-right: 15em;
+  padding-right: 15em;
+  margin: 0 auto; 
 }
